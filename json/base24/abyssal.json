@@ -1,0 +1,33 @@
+{
+    "system": "base24",
+    "name": "Abyssal",
+    "slug": "abyssal",
+    "author": "Joss Wright (https://www.weirddatascience.net)",
+    "variant": "dark",
+    "palette": {
+        "base00": "#000000",
+        "base01": "#1b2b34",
+        "base02": "#343d46",
+        "base03": "#4f5b66",
+        "base04": "#65737e",
+        "base05": "#e0e4e7",
+        "base06": "#e7e7f7",
+        "base07": "#f7f7ff",
+        "base0F": "#dd5500",
+        "base08": "#ff7518",
+        "base12": "#feac57",
+        "base09": "#ff9f10",
+        "base0A": "#ffcc00",
+        "base13": "#ffee50",
+        "base0B": "#39aa62",
+        "base14": "#4ce070",
+        "base0C": "#40e0d0",
+        "base15": "#20b2aa",
+        "base0D": "#01a0e4",
+        "base16": "#4b97c8",
+        "base0E": "#ab5ccb",
+        "base17": "#ba8efa",
+        "base10": "#000000",
+        "base11": "#000000"
+    }
+}
